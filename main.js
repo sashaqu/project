@@ -1,4 +1,4 @@
-var number = 5;
+var number = 5555;
 var string = "Hello world!";
 var sym = Symbol();
 var boolean = true;
